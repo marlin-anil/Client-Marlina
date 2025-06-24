@@ -1,0 +1,4 @@
+[all]
+localhost ansible_connection=local
+10.100.36.36
+10.100.36.37
